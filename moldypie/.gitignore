@@ -1,0 +1,15 @@
+# Compiled source #
+###################
+*.pyc
+
+# Misc #
+########
+*~
+*.orig
+*.DS_Store
+*.o
+*.mod
+*.log
+*.stdout
+*.out
+*.png
